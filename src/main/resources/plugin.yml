@@ -1,0 +1,8 @@
+name: MineWeb_BukkitBridge
+main: fr.thisismac.mineweb.Core
+version: 1.1
+author: ThisIsMac
+softdepend: [Vault, Factions, GroupManager, PermissionsEx]
+commands:
+  mineweb:
+    description: main command
